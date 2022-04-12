@@ -1,0 +1,9 @@
+.titles{
+    font-family: "Courier New", Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.thumb-img{
+    width: 250px;
+    height: auto;
+}
